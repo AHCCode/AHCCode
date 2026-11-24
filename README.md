@@ -10,9 +10,13 @@
   <img alt="About me" src="assets/doodle/about-light.svg" width="1000">
 </picture>
 
-<h3>I'm a Computer Science graduate from Algeria, currently pursuing a Master's in Artificial Intelligence at Université Mustapha Stambouli, Mascara.</h3>
+<h3>Computer Science graduate &amp; AI Master's student.</h3>
 
-<h3>I'm interested in building mobile applications and using AI to solve practical problems.</h3>
+Currently studying at **Université Mustapha Stambouli, Mascara, Algeria.**
+
+I'm interested in artificial intelligence, software engineering and building mobile applications that solve real-world problems.
+
+[LinkedIn](https://www.linkedin.com/in/chaoui-ahmed/)
 
 <br>
 
@@ -60,8 +64,16 @@ It helps drivers understand their cars through real-time OBD-II data, diagnostic
   <img alt="Currently" src="assets/doodle/currently-light.svg" width="1000">
 </picture>
 
-<h3>Studying machine learning, knowledge representation and intelligent systems.</h3>
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle/current-learning-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/doodle/current-learning-light.svg"><img src="assets/doodle/current-learning-light.svg" alt="" width="24" height="24" align="top"></picture>&nbsp; Learning</h3>
 
-<h3>Improving Insyt and exploring mobile development.</h3>
+Machine learning, knowledge representation and intelligent systems.
+
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle/current-building-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/doodle/current-building-light.svg"><img src="assets/doodle/current-building-light.svg" alt="" width="24" height="24" align="top"></picture>&nbsp; Building</h3>
+
+Improving Insyt and developing mobile applications.
+
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle/current-studying-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/doodle/current-studying-light.svg"><img src="assets/doodle/current-studying-light.svg" alt="" width="24" height="24" align="top"></picture>&nbsp; Studying</h3>
+
+Master’s degree in Artificial Intelligence.
 
 <!-- Main title: Playfair Display Bold Italic (SIL Open Font License), converted to SVG outlines. Technology logos: https://github.com/simple-icons/simple-icons. Doodle motifs inspired by Lucide icons. -->
