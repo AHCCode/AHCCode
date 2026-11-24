@@ -10,7 +10,9 @@
   <img alt="About me" src="assets/doodle/about-light.svg" width="1000">
 </picture>
 
-I'm a Computer Science graduate from Algeria, currently pursuing a Master's in Artificial Intelligence at Université Mustapha Stambouli, Mascara. I'm interested in building mobile applications and using AI to solve practical problems.
+<h3>I'm a Computer Science graduate from Algeria, currently pursuing a Master's in Artificial Intelligence at Université Mustapha Stambouli, Mascara.</h3>
+
+<h3>I'm interested in building mobile applications and using AI to solve practical problems.</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/project-dark.svg">
@@ -19,9 +21,9 @@ I'm a Computer Science graduate from Algeria, currently pursuing a Master's in A
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/mono/insyt-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/mono/insyt-light.svg">
-  <img alt="Insyt — intelligent vehicle health monitoring" src="assets/mono/insyt-light.svg" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/insyt-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/doodle/insyt-light.svg">
+  <img alt="Insyt — intelligent vehicle health monitoring" src="assets/doodle/insyt-light.svg" width="1000">
 </picture>
 
 **Insyt** is my graduation project, a mobile app that helps drivers understand their vehicle's health through live OBD-II data, trouble code interpretation and AI-assisted diagnostic explanations.
