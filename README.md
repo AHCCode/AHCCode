@@ -1,63 +1,48 @@
-[README.md](https://github.com/user-attachments/files/35379849/README.md)
-# Hi, I'm Ahmed 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Ahmed Chaoui — AI and software development. From data to decisions." src="assets/header-light.svg" width="1200">
+</picture>
 
-**Artificial Intelligence Master's Student · Computer Science Graduate · Software Developer**
+[**Work**](#01--selected-work) · [**Toolkit**](#02--toolkit) · [**Study notes**](#03--currently-exploring) · [**GitHub**](https://github.com/AHCCode)
 
-I'm a computer science graduate from Algeria, currently pursuing a Master's in Artificial Intelligence. I enjoy building practical software and exploring how AI can solve real-world problems, especially through intelligent systems and mobile applications.
+I’m a computer science graduate from Algeria, currently pursuing a Master’s in Artificial Intelligence at Université Mustapha Stambouli, Mascara. I like building software that takes complex information and makes it useful — whether it comes from a vehicle, a database or a machine learning model.
 
-## About me
+## 01 / Selected work
 
-- 🎓 Master's student in Artificial Intelligence at Université Mustapha Stambouli, Mascara.
-- 🔭 Interested in applied AI, machine learning and software engineering.
-- 🛠️ Building mobile applications and exploring AI-assisted development.
-- 🌱 Currently learning machine learning, knowledge representation, advanced algorithms and optimization.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/insyt-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/insyt-light.svg">
+  <img alt="Insyt: conceptual flow from vehicle to telemetry to diagnostic insights." src="assets/insyt-light.svg" width="1200">
+</picture>
 
-## Featured project
+**Insyt — intelligent vehicle health monitoring**
 
-### Insyt — Intelligent Vehicle Health Monitoring
+My graduation project explores how vehicle data and intelligent diagnostics can make car maintenance more approachable. It combines OBD-II connectivity, mobile development and AI-assisted explanations.
 
-Insyt is my graduation project, a mobile application designed to make vehicle diagnostics more accessible using OBD-II data and intelligent diagnostic insights.
+- Live vehicle telemetry and diagnostic trouble code interpretation
+- Rule-based diagnostics with AI-assisted explanations
+- Interfaces for both everyday drivers and more experienced users
 
-- Real-time vehicle telemetry through an ELM327 Bluetooth adapter.
-- Diagnostic trouble code reading and interpretation.
-- Rule-based diagnostics and AI-assisted explanations.
-- Beginner-friendly and advanced diagnostic views.
+`Flutter` · `Dart` · `Firebase` · `OBD-II` · `Bluetooth`
 
-**Technologies:** Flutter, Dart, Firebase, Bluetooth, OBD-II
+## 02 / Toolkit
 
-## Technologies & tools
+| Area | Languages & tools |
+| :--- | :--- |
+| Application development | Flutter · Dart · Kotlin · Android Studio |
+| Data & backend | SQL · PostgreSQL · Firebase |
+| Machine learning (learning) | Python · NumPy · pandas · scikit-learn · Jupyter |
+| Development workflow | Git · GitHub · VS Code |
 
-**Languages**
+## 03 / Currently exploring
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+- Machine learning and model evaluation
+- Knowledge representation, reasoning and intelligent systems
+- Algorithms, optimization and AI-assisted software development
 
-**Development**
+My aim is to build systems that are not only technically sound, but genuinely useful to the people who use them.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+---
 
-**Machine learning — currently learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-## Academic interests
-
-- Applied artificial intelligence and machine learning
-- Knowledge representation and reasoning
-- Algorithms and computational complexity
-- Intelligent mobile applications
-- Databases and data analysis
-
-## Connect
-
-I'm open to learning, collaborating on interesting projects and contributing to open-source software.
-
-[GitHub · @AHCCode](https://github.com/AHCCode)
+<sub>AHC / FIELD NOTES · [AHCCode](https://github.com/AHCCode) · Algeria</sub>
