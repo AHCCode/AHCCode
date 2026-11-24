@@ -16,7 +16,7 @@ Currently studying at **Université Mustapha Stambouli, Mascara, Algeria.**
 
 I'm interested in artificial intelligence, software engineering and building mobile applications that solve real-world problems.
 
-[LinkedIn](https://www.linkedin.com/in/chaoui-ahmed/)
+<a href="https://www.linkedin.com/in/chaoui-ahmed/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/doodle/linkedin-outline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/doodle/linkedin-outline-light.svg"><img src="assets/doodle/linkedin-outline-light.svg" alt="LinkedIn" width="152" height="42"></picture></a>
 
 <br>
 
