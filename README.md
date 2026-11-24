@@ -26,9 +26,13 @@
   <img alt="Insyt — intelligent vehicle health monitoring" src="assets/doodle/insyt-light.svg" width="1000">
 </picture>
 
-**Insyt** is my graduation project, a mobile app that helps drivers understand their vehicle's health through live OBD-II data, trouble code interpretation and AI-assisted diagnostic explanations.
+<h3>Insyt is my graduation project, a mobile app that helps drivers understand their vehicle's health through live OBD-II data, trouble code interpretation and AI-assisted diagnostic explanations.</h3>
 
-`Flutter` · `Dart` · `Firebase` · `Bluetooth` · `OBD-II`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/insyt-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/doodle/insyt-stack-light.svg">
+  <img alt="Flutter, Dart, Firebase, Bluetooth and OBD-II" src="assets/doodle/insyt-stack-light.svg" width="770">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/tools-dark.svg">
@@ -48,7 +52,8 @@
   <img alt="Currently" src="assets/doodle/currently-light.svg" width="1000">
 </picture>
 
-- Studying machine learning, knowledge representation and intelligent systems.
-- Improving Insyt and exploring new approaches to mobile development.
+<h3>Studying machine learning, knowledge representation and intelligent systems.</h3>
+
+<h3>Improving Insyt and exploring new approaches to mobile development.</h3>
 
 <!-- Main title: Playfair Display Bold Italic (SIL Open Font License), converted to SVG outlines. Technology logos: https://github.com/simple-icons/simple-icons. Doodle motifs inspired by Lucide icons. -->
