@@ -1,73 +1,39 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/hero-light.svg">
-  <img src="assets/editorial/hero-light.svg" alt="Ahmed Chaoui — AI and software engineering. From data to decisions." width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mono/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/mono/hero-light.svg">
+  <img alt="Hi there, I'm Ahmed. AI Master's student and software developer." src="assets/mono/hero-light.svg" width="1200">
 </picture>
 
-<p align="center">
-  <code>AI &amp; ML</code> &nbsp; / &nbsp;
-  <code>MOBILE DEVELOPMENT</code> &nbsp; / &nbsp;
-  <code>INTELLIGENT SYSTEMS</code>
-</p>
+## About me
+
+I'm a Computer Science graduate from Algeria, currently pursuing a Master's in Artificial Intelligence at Université Mustapha Stambouli, Mascara.
+
+I'm interested in AI, software engineering and mobile development. I enjoy building practical applications and understanding how things work.
+
+## Featured project
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/about-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/about-light.svg">
-  <img src="assets/editorial/about-light.svg" alt="01 — A little about me" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mono/insyt-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/mono/insyt-light.svg">
+  <img alt="Insyt — intelligent vehicle health monitoring" src="assets/mono/insyt-light.svg" width="1200">
 </picture>
 
-I'm a computer science graduate and an Artificial Intelligence Master's student in Algeria. I enjoy building practical software, understanding how systems work and making complex information easier to use.
+**Insyt** is my graduation project, a mobile application for real-time OBD-II vehicle diagnostics, telemetry and AI-assisted explanations. It makes vehicle health information easier to understand for drivers.
 
-- **Education:** MSc in Artificial Intelligence · Université Mustapha Stambouli, Mascara
-- **Interests:** applied AI, mobile development and intelligent systems
+`Flutter` · `Dart` · `Firebase` · `Bluetooth` · `OBD-II`
+
+## Technologies & tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/work-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/work-light.svg">
-  <img src="assets/editorial/work-light.svg" alt="02 — Selected work" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mono/tools-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/mono/tools-light.svg">
+  <img alt="Python, Flutter, Dart, Kotlin, Firebase, PostgreSQL, Git, Jupyter and scikit-learn" src="assets/mono/tools-light.svg" width="1200">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/insyt-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/insyt-light.svg">
-  <img src="assets/editorial/insyt-light.svg" alt="Insyt — intelligent vehicle health monitoring" width="1200">
-</picture>
+## Currently
 
-Insyt is my graduation project: a mobile application that uses vehicle data to make diagnostics more approachable for everyday drivers.
+- Pursuing my Master's in Artificial Intelligence.
+- Working on Insyt and exploring mobile development.
+- Learning more about machine learning, reasoning and intelligent systems.
 
-| Capability | What it does |
-| :-- | :-- |
-| Live telemetry | Reads vehicle data through OBD-II and Bluetooth |
-| Diagnostics | Interprets trouble codes and uses rule-based checks |
-| AI-assisted insights | Explains diagnostic findings in accessible language |
-| Adaptive experience | Offers beginner and expert diagnostic views |
-
-`Flutter` · `Dart` · `Firebase` · `OBD-II`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/tools-light.svg">
-  <img src="assets/editorial/tools-light.svg" alt="03 — My toolkit" width="1200">
-</picture>
-
-**Development** &nbsp; `Flutter` &nbsp; `Dart` &nbsp; `Kotlin` &nbsp; `Git` &nbsp; `Android Studio`
-
-**Data & backend** &nbsp; `SQL` &nbsp; `PostgreSQL` &nbsp; `Firebase`
-
-**Machine learning — learning** &nbsp; `Python` &nbsp; `NumPy` &nbsp; `pandas` &nbsp; `scikit-learn` &nbsp; `Jupyter`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/editorial/learning-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/editorial/learning-light.svg">
-  <img src="assets/editorial/learning-light.svg" alt="04 — In the lab" width="1200">
-</picture>
-
-- Machine learning, model evaluation and deep learning
-- Knowledge representation and reasoning
-- Algorithms, optimization and AI-assisted development
-
-> My goal is to build systems that are technically sound and genuinely useful.
-
----
-
-<p align="center"><sub>AHC / FIELD NOTES &nbsp; · &nbsp; <a href="https://github.com/AHCCode">GitHub / @AHCCode</a> &nbsp; · &nbsp; Algeria</sub></p>
+<!-- Technology logos sourced from Simple Icons: https://github.com/simple-icons/simple-icons -->
