@@ -33,9 +33,9 @@
 It helps drivers understand their cars through real-time OBD-II data, diagnostic trouble codes and AI-assisted explanations.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/insyt-stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/doodle/insyt-stack-light.svg">
-  <img alt="Flutter, Dart, Firebase, Bluetooth and OBD-II" src="assets/doodle/insyt-stack-light.svg" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/insyt-stack-inline-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/doodle/insyt-stack-inline-v2-light.svg">
+  <img alt="Flutter, Dart, Firebase, Bluetooth and OBD-II" src="assets/doodle/insyt-stack-inline-v2-light.svg" width="1000">
 </picture>
 
 <br>
@@ -47,9 +47,9 @@ It helps drivers understand their cars through real-time OBD-II data, diagnostic
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/mono/tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/mono/tools-light.svg">
-  <img alt="Python, Flutter, Dart, Kotlin, Firebase, PostgreSQL, Git, Jupyter and scikit-learn" src="assets/mono/tools-light.svg" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mono/tools-inline-v2-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/mono/tools-inline-v2-light.svg">
+  <img alt="Python, Flutter, Dart, Kotlin, Firebase, PostgreSQL, Git, Jupyter and scikit-learn" src="assets/mono/tools-inline-v2-light.svg" width="1000">
 </picture>
 
 <br>
