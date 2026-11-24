@@ -45,15 +45,15 @@ It helps drivers understand their cars through real-time OBD-II data, diagnostic
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/tools-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/doodle/tools-light.svg">
-  <img alt="Technologies &amp; tools" src="assets/doodle/tools-light.svg" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/technical-stack-heading-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/doodle/technical-stack-heading-light.svg">
+  <img alt="Technical stack" src="assets/doodle/technical-stack-heading-light.svg" width="1000">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/mono/tools-inline-v2-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/mono/tools-inline-v2-light.svg">
-  <img alt="Python, Flutter, Dart, Kotlin, Firebase, PostgreSQL, Git, Jupyter and scikit-learn" src="assets/mono/tools-inline-v2-light.svg" width="1000">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/doodle/technical-stack-v3-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/doodle/technical-stack-v3-light.svg">
+  <img alt="Python, Dart, Kotlin, SQL; Flutter, Firebase, PostgreSQL, SQLite; NumPy, pandas, scikit-learn, Matplotlib; Git, Jupyter." src="assets/doodle/technical-stack-v3-light.svg" width="1000">
 </picture>
 
 <br>
